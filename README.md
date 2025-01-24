@@ -21,8 +21,8 @@ I like to travel to places I don't know in my country
 [![twitter](https://img.shields.io/badge/twitter-EEscobarqt-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EEscobarqt) [![facebook](https://img.shields.io/badge/facebook-CarlosE.Escobar-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/19kRQcCFBx/) [![instagram](https://img.shields.io/badge/instagram-c4rl0s_9e-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/c4rl0s_9e) [![whatsapp](https://img.shields.io/badge/whatsapp-+593991398786-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/593991398786) [![telegram](https://img.shields.io/badge/telegram-CarlaoE-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CarlaoE )
 
 ## 📊 GitHub Stats:
-![](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+![](https://komarev.com/ghpvc/?username=CarlosTwT&label=Profile%20views&color=0e75b6&style=flat)
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=CarlosTwT&show_icons=true&theme=radical)
 
