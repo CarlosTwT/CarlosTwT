@@ -3,14 +3,14 @@
 # Hi user, I'm CarlosTwT
 ### I am another crazy fan of artificial intelligence and automated chatbots to perform tasks
 
-I like to walk around the city 
-I like to poison myself with sweets
+I like to walk around the city,  
+I like to poison myself with sweets, 
 I like to travel to places I don't know in my country 
 
 - 🔭 I'm currently working on [Sock Ai](https://github.com/CarlosTwT/bot)
 - 👯 I'm looking to collaborate on [a bigger project]()
 - 🌱 I'm currently learning Node.js
-- 💬 Ask me about You can ask me about WhatsApp bots and artificial intelligence 
+- 💬 Ask me about  WhatsApp bots and artificial intelligence 
 - 📫 How to reach me: carlos.e.escobarmc@gmail.com
 - ⚡ Fun fact:  I'm terribly bad at explaining things
 
